@@ -1,1 +1,1 @@
-The latest working version of my project (backend : Symfony & frontend : Angular) will be shared here soon enough, the current uploaded version is quite broke and requires some modifications which i am currently working on.
+The latest working version of my project (backend : Symfony & frontend : Angular) will be shared here soon enough or will be packaged and sent via classroom with more details, the current uploaded version is quite broke and requires some fixes which i am currently working on.
